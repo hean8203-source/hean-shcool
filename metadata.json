@@ -1,0 +1,8 @@
+{
+  "name": "Global Vision International Academy",
+  "description": "High-converting, mobile-first academic website for Global Vision International Academy, featuring AI-powered admissions guidance and student resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
